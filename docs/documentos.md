@@ -2,4 +2,4 @@
 
 ## 2025 - Editais Institucionais
 
-- Edital Ideias Inovadoras (arquivos/[2025] Edital IFTECH.pdf)
+- Edital Ideias Inovadoras (docs/arquivos/[2025] Edital IFTECH.pdf)
