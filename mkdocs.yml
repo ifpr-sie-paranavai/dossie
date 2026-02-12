@@ -1,6 +1,6 @@
-site_name: SIE/NIT – IFPR Paranavaí
+site_name: SIE – IFPR Paranavaí
 site_description: Documentação institucional da Seção de Inovação e Empreendedorismo – Campus Paranavaí
-site_author: Seção de Inovação e Empreendedorismo – IFPR Paranavaí
+site_author: Seção de Inovação e Empreendedorismo – Campus Paranavaí
 
 theme:
   name: material
@@ -10,7 +10,8 @@ nav:
   - Apresentação SIE: apresentacao.md
   - Diretrizes Operacionais: diretrizes.md
   - Eventos: eventos.md
-  - Documentos: documentos.md
+  - Documentos:
+      - Visão Geral: documentos.md
+      - 2025: docs2025.md
   - Arquivo Histórico: historico.md
   - Contatos: contatos.md
-
