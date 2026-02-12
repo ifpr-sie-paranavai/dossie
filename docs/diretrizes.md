@@ -1,3 +1,146 @@
-# Diretrizes da SIE
+# Diretrizes Operacionais da SIE
 
-Conteúdo em construção.
+Esta seção apresenta as diretrizes práticas que orientam a atuação da chefia da Seção de Inovação e Empreendedorismo (SIE), com foco na continuidade institucional, na articulação estratégica e na promoção da cultura de inovação no Campus Paranavaí.
+
+As atribuições aqui descritas não se limitam a normativas formais, mas refletem práticas consolidadas, responsabilidades recorrentes e momentos institucionais em que a atuação da SIE é determinante.
+
+---
+
+## 1. Articulação Institucional e Participação em Rede
+
+Compete à chefia da SIE participar ativamente do grupo de discussão dos Núcleos de Inovação Tecnológica (NITs) do IFPR, acompanhando orientações institucionais, debates estratégicos e compartilhamento de oportunidades.
+
+Essa participação é essencial para:
+
+- manter o campus alinhado às diretrizes institucionais de inovação;
+- antecipar editais e chamadas públicas;
+- compreender movimentos sistêmicos que impactam pesquisa e empreendedorismo;
+- fortalecer a integração entre os campi.
+
+A presença ativa nesse espaço contribui diretamente para a inserção qualificada do campus no ecossistema institucional de inovação.
+
+---
+
+## 2. Intermediação e Divulgação de Oportunidades
+
+A SIE atua como ponte entre as instâncias institucionais (PROEPPI, AGIF, NITs, Direção-Geral, COPEX) e a comunidade acadêmica.
+
+Cabe à chefia:
+
+- acompanhar editais institucionais e externos;
+- avaliar a pertinência estratégica para o campus;
+- divulgar oportunidades de forma clara e organizada;
+- orientar docentes e discentes interessados;
+- acompanhar prazos e exigências formais.
+
+A intermediação envolve leitura crítica dos editais e posicionamento proativo para que o campus não perca oportunidades relevantes.
+
+---
+
+## 3. Atuação Estratégica em Editais Estruturantes
+
+Há momentos institucionais em que a atuação da SIE é decisiva para viabilizar ações estruturantes no campus.
+
+Entre eles destacam-se:
+
+- participação no edital estruturante que permite a realização da IFTECH nos campi;
+- editais compartilhados pela AGIF voltados à inovação e empreendedorismo;
+- chamadas que demandam indicação institucional de representantes ou projetos.
+
+Nesses casos, é fundamental:
+
+- compreender o contexto institucional do edital;
+- articular com Direção-Geral e COPEX;
+- organizar documentação dentro dos prazos;
+- acompanhar desdobramentos e resultados.
+
+A ausência de atuação estratégica pode resultar na perda de oportunidades estruturantes para o campus.
+
+---
+
+## 4. Indicação e Acompanhamento para Eventos Estratégicos
+
+Eventos como a SNEPT e o SEPIN possuem relevância institucional e visibilidade nacional.
+
+Compete à SIE:
+
+- identificar potenciais representantes do campus;
+- organizar processos de indicação quando necessário;
+- acompanhar editais de participação;
+- orientar quanto à submissão de trabalhos;
+- articular apoio institucional quando aplicável.
+
+A presença do campus nesses eventos fortalece sua visibilidade e consolida sua atuação no cenário da inovação tecnológica.
+
+---
+
+## 5. Gestão de Editais e Acompanhamento de Execução
+
+A gestão de editais envolve:
+
+- organização documental;
+- acompanhamento de cronogramas;
+- esclarecimento de dúvidas de proponentes;
+- interlocução com instâncias superiores;
+- resolução de inconsistências e problemas administrativos.
+
+É recomendável manter:
+
+- registro organizado de editais por ano;
+- histórico de problemas recorrentes;
+- modelos de comunicação utilizados;
+- checklists internos de acompanhamento.
+
+A sistematização dessas informações reduz retrabalho e fortalece a continuidade da gestão.
+
+---
+
+## 6. Representação Institucional em Eventos de Inovação
+
+A chefia da SIE exerce papel de representação institucional do campus em eventos locais e regionais de inovação, empreendedorismo e tecnologia.
+
+Entre esses eventos incluem-se:
+
+- iniciativas promovidas pelo poder público municipal (como o Inovatech);
+- hackathons organizados pelo SEBRAE;
+- encontros de ecossistemas regionais de inovação;
+- feiras, fóruns e demais articulações estratégicas.
+
+A participação pode ocorrer por meio de:
+
+- representação formal do campus;
+- viabilização da participação de estudantes e servidores;
+- articulação de equipes para competições e desafios;
+- interlocução com parceiros estratégicos.
+
+Cabe à SIE:
+
+- acompanhar a agenda regional de inovação;
+- avaliar pertinência e impacto institucional;
+- articular com Direção-Geral quando necessário;
+- estimular a participação qualificada do campus.
+
+Essas ações ampliam a visibilidade institucional e fortalecem redes de parceria.
+
+---
+
+## 7. Articulação com o Ecossistema de Inovação
+
+A SIE também desempenha papel relevante na aproximação do campus com empresas, instituições públicas, organizações da sociedade civil e demais atores do ecossistema de inovação.
+
+Essa articulação pode envolver:
+
+- apoio à formação de parcerias;
+- encaminhamento de demandas externas;
+- estímulo a projetos com potencial de inovação aplicada;
+- mediação inicial para iniciativas com possibilidade de proteção intelectual ou transferência tecnológica, em diálogo com o NIT.
+
+A atuação deve sempre observar as normativas institucionais e manter alinhamento com as instâncias superiores do IFPR.
+
+---
+
+## Considerações Finais
+
+A atuação da SIE exige leitura estratégica do ambiente institucional, capacidade de articulação e postura proativa.
+
+Nem todas as demandas são formalizadas em normativas. Muitas dependem da percepção de oportunidades e da atuação no momento adequado para garantir que o campus permaneça inserido, visível e ativo no cenário da inovação e do empreendedorismo.
