@@ -10,5 +10,7 @@ nav:
   - Início: index.md
   - IFTECH:
       - Visão Geral: iftech.md
+  - Documentos:
+      - Editais e Portarias: documentos.md
   - Contatos: contatos.md
   
