@@ -1,5 +1,8 @@
-# Documentos institucionais
+# Documentos Institucionais
 
-## 2025 - Editais Institucionais
+Esta seção reúne os documentos produzidos pela SIE/NIT a partir de 2025, organizados por ano de vigência. Os arquivos podem estar disponíveis diretamente neste repositório ou por meio de links para páginas oficiais do IFPR.
 
-- Edital Ideias Inovadoras (docs/arquivos/[2025] Edital IFTECH.pdf)
+## Documentos por Ano
+
+
+
