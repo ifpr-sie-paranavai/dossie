@@ -1,56 +1,45 @@
 # Diretrizes Operacionais da SIE
 
-Esta seção apresenta as diretrizes práticas que orientam a atuação da chefia da Seção de Inovação e Empreendedorismo (SIE), com foco na continuidade institucional, na articulação estratégica e na promoção da cultura de inovação no Campus Paranavaí.
-
-As atribuições aqui descritas não se limitam a normativas formais, mas refletem práticas consolidadas, responsabilidades recorrentes e momentos institucionais em que a atuação da SIE é determinante.
+Esta seção apresenta as diretrizes práticas que orientam a atuação da chefia da SIE/NIT, com foco na continuidade institucional, na articulação estratégica e na promoção da cultura de inovação no Campus Paranavaí. As atribuições aqui descritas não se limitam a normativas formais, mas refletem práticas consolidadas, responsabilidades recorrentes e momentos institucionais em que a atuação da SIE é determinante.
 
 ---
 
-## 1. Articulação Institucional e Participação em Rede
+## 1. Articulação em Rede
 
-Compete à chefia da SIE participar ativamente do grupo de discussão dos Núcleos de Inovação Tecnológica (NITs) do IFPR, acompanhando orientações institucionais, debates estratégicos e compartilhamento de oportunidades.
-
-Essa participação é essencial para:
+Compete à chefia da SIE participar ativamente do grupo de discussão dos Núcleos de Inovação Tecnológica (NITs) do IFPR, acompanhando orientações institucionais, debates estratégicos e compartilhamento de oportunidades. Essa participação ocorre via WhatsApp/chat e é essencial para:
 
 - manter o campus alinhado às diretrizes institucionais de inovação;
-- antecipar editais e chamadas públicas;
+- viabilizar editais e chamadas públicas;
 - compreender movimentos sistêmicos que impactam pesquisa e empreendedorismo;
 - fortalecer a integração entre os campi.
 
-A presença ativa nesse espaço contribui diretamente para a inserção qualificada do campus no ecossistema institucional de inovação.
+A presença ativa nesse espaço contribui diretamente para a inserção do campus no ecossistema institucional de inovação.
 
 ---
 
-## 2. Intermediação e Divulgação de Oportunidades
+## 2. Divulgação de Oportunidades
 
-A SIE atua como ponte entre as instâncias institucionais (PROEPPI, AGIF, NITs, Direção-Geral, COPEX) e a comunidade acadêmica.
-
-Cabe à chefia:
+A SIE/NIT atua como ponte entre as instâncias institucionais (PROEPPI, AGIF, NITs, Direção-Geral, COPEX) e a comunidade acadêmica. Dessa forma, cabe à chefia:
 
 - acompanhar editais institucionais e externos;
-- avaliar a pertinência estratégica para o campus;
 - divulgar oportunidades de forma clara e organizada;
-- orientar docentes e discentes interessados;
+- orientar/intermediar docentes e discentes interessados;
 - acompanhar prazos e exigências formais.
-
-A intermediação envolve leitura crítica dos editais e posicionamento proativo para que o campus não perca oportunidades relevantes.
 
 ---
 
 ## 3. Atuação Estratégica em Editais Estruturantes
 
-Há momentos institucionais em que a atuação da SIE é decisiva para viabilizar ações estruturantes no campus.
+Há momentos institucionais em que a atuação da SIE/NIT é decisiva para viabilizar ações estruturantes no campus. Entre eles destacam-se:
 
-Entre eles destacam-se:
-
-- participação no edital estruturante que permite a realização da IFTECH nos campi;
+- participação no edital eque permite a realização da IFTECH nos campi;
 - editais compartilhados pela AGIF voltados à inovação e empreendedorismo;
 - chamadas que demandam indicação institucional de representantes ou projetos.
 
 Nesses casos, é fundamental:
 
 - compreender o contexto institucional do edital;
-- articular com Direção-Geral e COPEX;
+- articular com Direção-Geral, DIEPEX e COPEX;
 - organizar documentação dentro dos prazos;
 - acompanhar desdobramentos e resultados.
 
@@ -60,9 +49,7 @@ A ausência de atuação estratégica pode resultar na perda de oportunidades es
 
 ## 4. Indicação e Acompanhamento para Eventos Estratégicos
 
-Eventos como a SNEPT e o SEPIN possuem relevância institucional e visibilidade nacional.
-
-Compete à SIE:
+Eventos como a SNEPT e o SEPIN possuem relevância institucional e visibilidade nacional. Por isso, compete à SIE:
 
 - identificar potenciais representantes do campus;
 - organizar processos de indicação quando necessário;
@@ -97,12 +84,10 @@ A sistematização dessas informações reduz retrabalho e fortalece a continuid
 
 ## 6. Representação Institucional em Eventos de Inovação
 
-A chefia da SIE exerce papel de representação institucional do campus em eventos locais e regionais de inovação, empreendedorismo e tecnologia.
-
-Entre esses eventos incluem-se:
+A chefia da SIE/NIT exerce papel de representação institucional do campus em eventos locais e regionais de inovação, empreendedorismo e tecnologia. Entre esses eventos incluem-se:
 
 - iniciativas promovidas pelo poder público municipal (como o Inovatech);
-- hackathons organizados pelo SEBRAE;
+- hackathons (como os organizados pelo SEBRAE);
 - encontros de ecossistemas regionais de inovação;
 - feiras, fóruns e demais articulações estratégicas.
 
@@ -126,9 +111,7 @@ Essas ações ampliam a visibilidade institucional e fortalecem redes de parceri
 
 ## 7. Articulação com o Ecossistema de Inovação
 
-A SIE também desempenha papel relevante na aproximação do campus com empresas, instituições públicas, organizações da sociedade civil e demais atores do ecossistema de inovação.
-
-Essa articulação pode envolver:
+A SIE/NIT também desempenha papel relevante na aproximação do campus com empresas, instituições públicas, organizações da sociedade civil e demais atores do ecossistema de inovação. Essa articulação pode envolver:
 
 - apoio à formação de parcerias;
 - encaminhamento de demandas externas;
@@ -141,6 +124,4 @@ A atuação deve sempre observar as normativas institucionais e manter alinhamen
 
 ## Considerações Finais
 
-A atuação da SIE exige leitura estratégica do ambiente institucional, capacidade de articulação e postura proativa.
-
-Nem todas as demandas são formalizadas em normativas. Muitas dependem da percepção de oportunidades e da atuação no momento adequado para garantir que o campus permaneça inserido, visível e ativo no cenário da inovação e do empreendedorismo.
+A atuação da SIE/NIT exige leitura estratégica do ambiente institucional, capacidade de articulação e postura proativa. Nem todas as demandas são formalizadas em normativas. Muitas dependem da percepção de oportunidades e da atuação no momento adequado para garantir que o campus permaneça inserido, visível e ativo no cenário da inovação e do empreendedorismo.
