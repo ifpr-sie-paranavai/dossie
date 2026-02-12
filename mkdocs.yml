@@ -1,5 +1,5 @@
-site_name: Dossiê SIE – IFPR Paranavaí
-site_description: Documentação institucional da Seção de Inovação e Empreendedorismo
+site_name: SIE – IFPR Paranavaí
+site_description: Documentação institucional da Seção de Inovação e Empreendedorismo – Campus Paranavaí
 site_author: Seção de Inovação e Empreendedorismo – IFPR Paranavaí
 
 theme:
@@ -7,10 +7,35 @@ theme:
   language: pt-BR
 
 nav:
-  - Início: index.md
-  - IFTECH:
-      - Visão Geral: iftech.md
+  - Apresentação SIE:
+
+  - Diretrizes Operacionais:
+      - Atribuições e Competências: diretrizes/atribuicoes.md
+      - Fluxos Internos: diretrizes/fluxos.md
+      - Rotinas Recorrentes: diretrizes/rotinas.md
+      - Ferramentas Utilizadas: diretrizes/ferramentas.md
+      - Transição de Gestão: diretrizes/transicao.md
+
+  - Eventos:
+      - IFTECH:
+          - Visão Geral: eventos/iftech/visao-geral.md
+          - Modelo Organizacional: eventos/iftech/modelo.md
+          - Edições por Ano:
+              - 2024: eventos/iftech/2024.md
+              - 2025: eventos/iftech/2025.md
+      - SEPIN: eventos/sepin.md
+      - SNEPT: eventos/snept.md
+
   - Documentos:
-      - Editais e Portarias: documentos.md
-  - Contatos: contatos.md
-  
+      - Normativas Permanentes: documentos/normativas.md
+      - Modelos Oficiais: documentos/modelos.md
+      - Documentos por Ano:
+          - 2025: documentos/2025.md
+
+  - Arquivo Histórico:
+      - Eventos: historico/eventos.md
+      - Projetos Estratégicos: historico/projetos.md
+      - Registros Institucionais: historico/registros.md
+
+  - Contatos:
+      - Canais Oficiais: contatos.md
