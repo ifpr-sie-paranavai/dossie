@@ -7,9 +7,10 @@ theme:
   language: pt-BR
 
 nav:
-  - Apresentação SIE:
-  - Diretrizes Operacionais:
-  - Eventos:
-  - Documentos:
-  - Arquivo Histórico:
-  - Contatos: docs/contatos.md
+  - Apresentação SIE: apresentacao.md
+  - Diretrizes Operacionais: diretrizes.md
+  - Eventos: eventos.md
+  - Documentos: documentos.md
+  - Arquivo Histórico: historico.md
+  - Contatos: contatos.md
+
