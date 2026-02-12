@@ -1,0 +1,14 @@
+site_name: Dossiê SIE – IFPR Paranavaí
+site_description: Documentação institucional da Seção de Inovação e Empreendedorismo
+site_author: Seção de Inovação e Empreendedorismo – IFPR Paranavaí
+
+theme:
+  name: material
+  language: pt-BR
+
+nav:
+  - Início: index.md
+  - IFTECH:
+      - Visão Geral: iftech.md
+  - Contatos: contatos.md
+  
