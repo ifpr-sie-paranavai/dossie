@@ -10,32 +10,31 @@ nav:
   - Apresentação SIE:
 
   - Diretrizes Operacionais:
-      - Atribuições e Competências: diretrizes/atribuicoes.md
-      - Fluxos Internos: diretrizes/fluxos.md
-      - Rotinas Recorrentes: diretrizes/rotinas.md
-      - Ferramentas Utilizadas: diretrizes/ferramentas.md
-      - Transição de Gestão: diretrizes/transicao.md
+      - Atribuições e Competências:
+      - Fluxos Internos: 
+      - Rotinas Recorrentes: 
+      - Ferramentas Utilizadas: 
+      - Transição de Gestão: 
 
   - Eventos:
       - IFTECH:
-          - Visão Geral: eventos/iftech/visao-geral.md
-          - Modelo Organizacional: eventos/iftech/modelo.md
+          - Visão Geral: 
+          - Modelo Organizacional: 
           - Edições por Ano:
-              - 2024: eventos/iftech/2024.md
-              - 2025: eventos/iftech/2025.md
-      - SEPIN: eventos/sepin.md
-      - SNEPT: eventos/snept.md
+              - 2024:
+              - 2025: 
+      - SEPIN:
+      - SNEPT: 
 
   - Documentos:
-      - Normativas Permanentes: documentos/normativas.md
-      - Modelos Oficiais: documentos/modelos.md
-      - Documentos por Ano:
-          - 2025: documentos/2025.md
+      - Normativas Permanentes: 
+      - Modelos Oficiais: 
+
 
   - Arquivo Histórico:
-      - Eventos: historico/eventos.md
-      - Projetos Estratégicos: historico/projetos.md
-      - Registros Institucionais: historico/registros.md
+      - Eventos: 
+      - Projetos Estratégicos:
+      - Registros Institucionais:
 
   - Contatos:
       - Canais Oficiais: contatos.md
