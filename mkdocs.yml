@@ -8,33 +8,8 @@ theme:
 
 nav:
   - Apresentação SIE:
-
   - Diretrizes Operacionais:
-      - Atribuições e Competências:
-      - Fluxos Internos: 
-      - Rotinas Recorrentes: 
-      - Ferramentas Utilizadas: 
-      - Transição de Gestão: 
-
   - Eventos:
-      - IFTECH:
-          - Visão Geral: 
-          - Modelo Organizacional: 
-          - Edições por Ano:
-              - 2024:
-              - 2025: 
-      - SEPIN:
-      - SNEPT: 
-
   - Documentos:
-      - Normativas Permanentes: 
-      - Modelos Oficiais: 
-
-
   - Arquivo Histórico:
-      - Eventos: 
-      - Projetos Estratégicos:
-      - Registros Institucionais:
-
-  - Contatos:
-      - Canais Oficiais: contatos.md
+  - Contatos: docs/contatos.md
