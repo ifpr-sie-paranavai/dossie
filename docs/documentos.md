@@ -4,5 +4,7 @@ Esta seção reúne os documentos produzidos pela SIE/NIT a partir de 2025, orga
 
 ## Documentos por Ano
 
+  - 2025: documentos/2025.md
+  - 2026: documentos/2026.md
 
 
