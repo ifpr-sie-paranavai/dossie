@@ -3,7 +3,7 @@
 ## IFTECH 2025
 
 ![IFTECH 2025](imagens/iftech_2025_capa.jpg)
-
+*Professor Rafael Petermann e o Vice-Prefeito Pedro Baraldi durante a IFTECH 2025.*
 **Data de realização:** 04 de novembro de 2025  
 **Projetos apresentados:** 64  
 **Estudantes participantes:** 148  
@@ -17,6 +17,7 @@ Encontra-se disponível link com acesso de leitura aos registros fotográficos e
 ### Registros de Edições Anteriores
 
 ![IFTECH – Edições Anteriores](imagens/iftech_edicao_anterior_capa.jpg)
+*Egresso Diego Nicácio e a Professora Camila Clozato Lara em edição anterior da IFTECH.*
 
 Os registros fotográficos das edições anteriores da IFTECH encontram-se disponível para consulta por meio do link abaixo:
 
