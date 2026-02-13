@@ -2,7 +2,7 @@
 
 A SIE/NIT do Campus Paranavaí atuam na articulação, acompanhamento e organização da participação institucional em eventos científicos, tecnológicos e de inovação promovidos pelo IFPR ou por instâncias correlatas. Principais eventos institucionais:
 
-## IFAgroTech: ## 
+## IFAgroTech:## 
 Evento institucional voltado à inovação aplicada ao setor agropecuário, com participação de estudantes e servidores em projetos tecnológicos.
 
 ## Robótica: ##
