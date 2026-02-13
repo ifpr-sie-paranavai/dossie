@@ -1,9 +1,10 @@
-# Arquivo Histórico
+# Acervo dos Eventos
 
 ## IFTECH 2025
 
 ![IFTECH 2025](imagens/iftech_2025_capa.jpg)
 *Professor Rafael Petermann e o Vice-Prefeito Pedro Baraldi durante a IFTECH 2025.*
+
 **Data de realização:** 04 de novembro de 2025  
 **Projetos apresentados:** 64  
 **Estudantes participantes:** 148  
