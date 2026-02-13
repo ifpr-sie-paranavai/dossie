@@ -18,3 +18,16 @@ O Núcleo de Inovação Tecnológica é o órgão responsável por assessorar a 
 
 Entre suas funções, o NIT favorece a criação de um ambiente propício à inovação, apoia processos de pesquisa aplicada, estimula a interação com empresas e organizações, e orienta servidores e estudantes quanto a práticas inovadoras com potencial de impacto tecnológico, econômico ou social.
 
+---
+
+## Chefia da SIE / Presidência do NIT
+
+No Campus Paranavaí, a chefia da SIE exerce cumulativamente a presidência do NIT. Servidores que exerceram a função:
+
+- Camila Clozato Lara (2018-2020)
+- Alexandre da Silva Avíncola (2020-2021)
+- Edno Gentilho Junior (2021-2022)
+- José Augusto Teixeira (2022-2024)
+- Daniela Eloise Flôr (2024-2026)
+- Sérgio Alexandre dos Santos Júnior (2026-atual)
+
