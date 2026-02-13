@@ -12,15 +12,10 @@ Mais do que registrar uma edição específica, esta estrutura busca:
 - identificar obstáculos operacionais e estratégias de superação;
 - garantir memória institucional e transição administrativa.
 
-A IFTECH envolve múltiplas frentes de atuação — avaliação, logística, documentação, articulação institucional, comunicação e infraestrutura — que demandam planejamento prévio e coordenação sistemática.
+A IFTECH envolve múltiplas frentes de atuação que demandam planejamento prévio e coordenação sistemática. As seções a seguir detalham cada uma dessas dimensões:
 
-As seções a seguir detalham cada uma dessas dimensões, permitindo compreender:
-
-- como o evento é estruturado;
-- quais decisões são recorrentes;
-- quais documentos devem ser produzidos;
-- quais desafios tendem a surgir;
-- e quais estratégias podem ser adotadas para sua resolução.
+- [Identidade do Evento](identidade.md)
+- 
 
 A organização estruturada dessas informações fortalece a governança do evento e contribui para sua realização de forma transparente, eficiente e alinhada às diretrizes institucionais do IFPR.
 
