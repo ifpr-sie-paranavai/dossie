@@ -2,7 +2,7 @@
 
 A IFTECH (Feira de Inovação Tecnológica) é uma ação institucional do IFPR voltada à apresentação de projetos desenvolvidos pela comunidade acadêmica, integrando ensino, pesquisa, extensão e inovação.
 
-Este compilado tem por finalidade sistematizar os principais aspectos organizacionais, administrativos e operacionais do evento, reunindo orientações que contribuam para sua continuidade, aperfeiçoamento e consolidação no calendário institucional.
+Este compilado tem por finalidade sistematizar os principais aspectos organizacionais, administrativos e operacionais do evento, reunindo orientações que contribuam para sua continuidade e  aperfeiçoamento institucional.
 
 Mais do que registrar uma edição específica, esta estrutura busca:
 
