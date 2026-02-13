@@ -9,9 +9,10 @@ theme:
 nav:
   - Apresentação SIE: apresentacao.md
   - Diretrizes Operacionais: diretrizes.md
-  - Eventos: 
+
+  - Eventos:
       - Visão Geral: eventos.md
-        - IFTECH:
+      - IFTECH:
           - Apresentação Geral: eventos/iftech/index.md
           - Identidade do Evento: eventos/iftech/identidade.md
           - Avaliação: eventos/iftech/avaliacao.md
@@ -23,5 +24,7 @@ nav:
       - Visão Geral: documentos.md
       - 2025: docs2025.md
       - 2026: docs2026.md
+
   - Acervo: historico.md
   - Contatos: contatos.md
+
