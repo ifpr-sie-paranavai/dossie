@@ -13,3 +13,11 @@
 Encontra-se disponível link com acesso de leitura aos registros fotográficos e audiovisuais do evento, permitindo consulta completa do material produzido.
 
 [Acessar acervo completo no Google Drive](https://drive.google.com/drive/folders/1x15ibormFa2DMju0eOVi2hjLoDHpHzAZ?usp=sharing)
+
+### Registros de Edições Anteriores
+
+Os registros fotográficos das edições anteriores da IFTECH encontram-se reunidos em acervo consolidado, sem segmentação por ano de realização.
+
+O material está disponível para consulta por meio do link abaixo:
+
+[Acessar acervo histórico](COLOCAR_LINK_AQUI)
