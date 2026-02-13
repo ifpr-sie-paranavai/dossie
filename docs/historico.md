@@ -13,7 +13,7 @@
 
 Encontra-se disponível link com acesso de leitura aos registros fotográficos e audiovisuais do evento, permitindo consulta completa do material produzido. [Acessar acervo.](https://drive.google.com/drive/folders/1x15ibormFa2DMju0eOVi2hjLoDHpHzAZ?usp=sharing)
 
-### Registros de Edições Anteriores
+## Edições Anteriores
 
 ![IFTECH – Edições Anteriores](imagens/iftech_edicao_anterior_capa.jpg)
 *Egresso Diego Nicácio e a Professora Camila Clozato Lara em edição anterior da IFTECH.*
