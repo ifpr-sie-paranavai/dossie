@@ -26,8 +26,8 @@ No Campus Paranavaí, a chefia da SIE exerce cumulativamente a presidência do N
 
 - Camila Clozato Lara (2018-2020)
 - Alexandre da Silva Avíncola (2020-2021)
-- Edno Gentilho Junior (2021-2022)
+- Edno Gentilho Junior (2021-2022) (in memoriam)
 - José Augusto Teixeira (2022-2024)
 - Daniela Eloise Flôr (2024-2026)
-- Sérgio Alexandre dos Santos Júnior (2026-atual)
+- Sérgio Alexandre dos Santos Júnior (2026-)
 
