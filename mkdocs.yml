@@ -11,7 +11,14 @@ nav:
   - Diretrizes Operacionais: diretrizes.md
   - Eventos: 
       - Visão Geral: eventos.md
-      - IFTECH: eventos/iftech.md
+        - IFTECH:
+          - Apresentação Geral: eventos/iftech/index.md
+          - Identidade do Evento: eventos/iftech/identidade.md
+          - Avaliação: eventos/iftech/avaliacao.md
+          - Layout e Distribuição: eventos/iftech/layout.md
+          - Projetos: eventos/iftech/projetos.md
+          - Credenciamento: eventos/iftech/credenciamento.md
+
   - Documentos:
       - Visão Geral: documentos.md
       - 2025: docs2025.md
