@@ -15,9 +15,10 @@ Mais do que registrar uma edição específica, esta estrutura busca:
 A IFTECH envolve múltiplas frentes de atuação que demandam planejamento prévio e coordenação sistemática. As seções a seguir detalham cada uma dessas dimensões:
 
 - [Identidade](identidade.md)
-- [Avaliação](avaliacao.md)
+- [Projetos](projetos.md)
 - [Layout](layout.md)
 - [Credenciamento](credenciamento.md)
-
+- [Avaliação](avaliacao.md)
+  
 A organização estruturada dessas informações fortalece a governança do evento e contribui para sua realização de forma transparente, eficiente e alinhada às diretrizes institucionais do IFPR.
 
