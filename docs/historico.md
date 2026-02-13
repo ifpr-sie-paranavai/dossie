@@ -16,8 +16,8 @@ Encontra-se disponível link com acesso de leitura aos registros fotográficos e
 
 ### Registros de Edições Anteriores
 
-Os registros fotográficos das edições anteriores da IFTECH encontram-se reunidos em acervo consolidado, sem segmentação por ano de realização.
+![IFTECH – Edições Anteriores](imagens/iftech_edicao_anterior_capa.jpg)
 
-O material está disponível para consulta por meio do link abaixo:
+Os registros fotográficos das edições anteriores da IFTECH encontram-se disponível para consulta por meio do link abaixo:
 
 [Acessar acervo histórico](COLOCAR_LINK_AQUI)
