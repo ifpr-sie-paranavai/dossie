@@ -1,19 +1,19 @@
 # Diretrizes Operacionais da SIE
 
-Esta seção apresenta as diretrizes práticas que orientam a atuação da chefia da SIE/NIT, com foco na continuidade institucional, na articulação estratégica e na promoção da cultura de inovação no Campus Paranavaí. As atribuições aqui descritas não se limitam a normativas formais, mas refletem práticas consolidadas, responsabilidades recorrentes e momentos institucionais em que a atuação da SIE é determinante.
+Esta seção apresenta as diretrizes práticas que orientam a atuação da chefia da SIE/NIT, com foco na continuidade institucional, na articulação estratégica e na promoção da cultura de inovação no Campus Paranavaí. As atribuições aqui descritas não se limitam a documentos formais, mas refletem práticas consolidadas, responsabilidades recorrentes e momentos institucionais em que a atuação da SIE é determinante.
 
 ---
 
 ## 1. Articulação em Rede
 
-Compete à chefia da SIE participar ativamente do grupo de discussão dos Núcleos de Inovação Tecnológica (NITs) do IFPR, acompanhando orientações institucionais, debates estratégicos e compartilhamento de oportunidades. Essa participação ocorre via WhatsApp/chat e é essencial para:
+Compete à chefia da SIE participar ativamente do grupo de discussão dos Núcleos de Inovação Tecnológica (NITs) do IFPR, acompanhando orientações institucionais, debates estratégicos e compartilhamento de oportunidades. Essa participação ocorre via WhatsApp/Chat e é essencial para:
 
 - manter o campus alinhado às diretrizes institucionais de inovação;
-- viabilizar editais e chamadas públicas;
-- compreender movimentos sistêmicos que impactam pesquisa e empreendedorismo;
+- viabilizar/compartilhar editais e chamadas públicas;
+- compreender movimentos sistêmicos que estimulam a inovação e/ou empreendedorismo;
 - fortalecer a integração entre os campi.
 
-A presença ativa nesse espaço contribui diretamente para a inserção do campus no ecossistema institucional de inovação.
+A presença ativa nesse espaço contribui diretamente para a inserção do campus no ecossistema institucional.
 
 ---
 
@@ -22,7 +22,7 @@ A presença ativa nesse espaço contribui diretamente para a inserção do campu
 A SIE/NIT atua como ponte entre as instâncias institucionais (PROEPPI, AGIF, NITs, Direção-Geral, COPEX) e a comunidade acadêmica. Dessa forma, cabe à chefia:
 
 - acompanhar editais institucionais e externos;
-- divulgar oportunidades de forma clara e organizada;
+- divulgar oportunidades de forma ampla, clara e organizada;
 - orientar/intermediar docentes e discentes interessados;
 - acompanhar prazos e exigências formais.
 
@@ -32,7 +32,7 @@ A SIE/NIT atua como ponte entre as instâncias institucionais (PROEPPI, AGIF, NI
 
 Há momentos institucionais em que a atuação da SIE/NIT é decisiva para viabilizar ações estruturantes no campus. Entre eles destacam-se:
 
-- participação no edital eque permite a realização da IFTECH nos campi;
+- participação no edital que permite a realização da IFTECH/IFAgroTech/Robótica/Foguetes nos campi;
 - editais compartilhados pela AGIF voltados à inovação e empreendedorismo;
 - chamadas que demandam indicação institucional de representantes ou projetos.
 
@@ -93,7 +93,7 @@ A chefia da SIE/NIT exerce papel de representação institucional do campus em e
 
 A participação pode ocorrer por meio de:
 
-- representação formal do campus;
+- representação formal do campus no Conselho Municipal de Inovação de Paranavaí ou em outras organizações;
 - viabilização da participação de estudantes e servidores;
 - articulação de equipes para competições e desafios;
 - interlocução com parceiros estratégicos.
