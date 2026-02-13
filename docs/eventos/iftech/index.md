@@ -17,6 +17,7 @@ A IFTECH envolve múltiplas frentes de atuação que demandam planejamento prév
 - [Identidade](identidade.md)
 - [Avaliação](avaliacao.md)
 - [Layout](layout.md)
+- Credenciamento: eventos/iftech/credenciamento.md
 
 A organização estruturada dessas informações fortalece a governança do evento e contribui para sua realização de forma transparente, eficiente e alinhada às diretrizes institucionais do IFPR.
 
