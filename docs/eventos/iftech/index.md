@@ -19,13 +19,10 @@ Definição da identidade visual e institucional do evento. Acessar: [Identidade
 ### 3. Infraestrutura e Layout
 Planejamento do layout físico e organização dos projetos.  Acessar: [Infraestrutura e Layout](layout.md)
 
-### 4. Inscrição, Credenciamento e Controle de Participação
-Registro estruturado de participantes, avaliadores e equipe de apoio.  Acessar: [Credenciamento](credenciamento.md)
-
-### 5. Avaliação e avaliadores
+### 4. Avaliação e avaliadores
 Definição de critérios, distribuição de projetos aos avaliadores e consolidação dos resultados.  Acessar: [Avaliação e avaliadores](avaliacao.md)
 
-### 6. Registro e Consolidação Institucional
+### 5. Registro e Consolidação Institucional
 Elaboração de relatório, emissão de certificados e preservação da memória administrativa da edição.  Acessar: [Relatório](relatorio.md)
 
 ---
