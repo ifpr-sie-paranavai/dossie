@@ -54,20 +54,19 @@ Recomenda-se verificar previamente a multiplicidade de vínculos por participant
 
 ### Inclusão Tardia de Participantes
 
-Alterações na composição das equipes após a fase inicial de inscrição podem gerar impactos em:
+Alterações na composição das equipes sem comunicação prévia após a fase inicial de inscrição podem gerar impactos em:
 
-- credenciamento;
-- emissão de certificados;
-- dimensionamento de mesas e cadeiras;
-- organização do espaço físico.
+- credenciamento (participantes sem crachá ou com identificação improvisada);
+- disseminação de informações institucionais aos novos integrantes (horários, orientações gerais e organização de lanches);
+- emissão incorreta ou ausência de certificados (impacto no registro de atividades complementares);
+- insuficiência de mesas, cadeiras ou espaço físico (impacto no suporte operacional e na equipe terceirizada);
+- necessidade de readequação emergencial do layout (dificuldade de executar o planejamento previamente definido).
 
-A definição de prazos claros para alterações e a atualização contínua das bases consolidadas reduzem inconsistências e retrabalho.
+Essas situações, embora pontuais, geram retrabalho para a organização e podem comprometer a fluidez do evento.
 
-### Demandas Técnicas Não Informadas
+A definição de prazos claros para alterações e o reforço contínuo, junto aos proponentes, sobre a obrigatoriedade de comunicação prévia de mudanças na equipe contribuem para maior estabilidade organizacional.
 
-A inclusão de equipamentos ou estruturas não previamente informadas pode comprometer a organização do layout e exigir readequações emergenciais no espaço físico.
-
-É fundamental que todas as necessidades técnicas sejam declaradas no momento da inscrição, permitindo planejamento adequado e evitando ajustes de última hora.
+A orientação preventiva reduz improvisações no dia da realização da feira e preserva a qualidade institucional do evento.
 
 ---
 
