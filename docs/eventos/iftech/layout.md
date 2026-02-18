@@ -63,7 +63,6 @@ O episódio demonstrou que improvisações elétricas e sobrecarga de circuitos 
 Recomenda-se, para futuras edições:
 
 - mapear previamente a carga elétrica necessária por projeto;
-- centralizar a distribuição de extensões sob supervisão técnica;
-- proibir o uso de adaptadores tipo “benjamim” e conferir as "extensões" usadas nos projetos;
-- destacar equipe de apoio técnico durante a montagem;
+- proibir o uso de adaptadores tipo “benjamim” e conferir com atenção as extensões/filtros de linha dos projetos;
+- destacar equipe de apoio técnico para acompanhar a montagem;
 - incluir orientações formais de segurança no e-mail oficial aos expositores.
