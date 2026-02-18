@@ -48,7 +48,7 @@ Esses materiais podem servir como referência para edições futuras, permitindo
 
 Recomenda-se manter essa pasta atualizada a cada edição, preservando histórico organizado por ano.
 
-!!! important "Importante"
+!!! important "OBSERVAÇÕES"
 A organização dos projetos deve considerar não apenas aspectos quantitativos, mas também suas implicações práticas na dinâmica do evento.
 
 ### Participação em Múltiplos Projetos
@@ -59,7 +59,7 @@ Embora a gestão interna da equipe seja responsabilidade dos proponentes, a orga
 
 Recomenda-se verificar previamente a multiplicidade de vínculos por participante e considerar essa variável na organização do cronograma e do layout.
 
-### Inclusão Tardia de Participantes
+### Inclusão Tardia de Participantes Discentes
 
 Alterações na composição das equipes sem comunicação prévia após a fase inicial de inscrição podem gerar impactos em:
 
@@ -77,4 +77,41 @@ A orientação preventiva reduz improvisações no dia da realização da feira 
 
 ---
 
-A gestão estruturada dos projetos constitui elemento central para a estabilidade operacional da IFTECH e para sua consolidação como prática institucional recorrente.
+## Inscrições e Controle de Participação
+
+Em 2025, a IFTECH envolveu dois fluxos distintos de inscrição:
+
+### Participantes expositores
+
+As inscrições dos projetos e de seus respectivos integrantes foram realizadas por meio do SUAP, conforme edital interno do campus. O SUAP é responsável por:
+
+- registro formal dos projetos submetidos;
+- vinculação de estudantes e orientadores;
+- controle institucional das equipes;
+- emissão de certificados para expositores e orientadores.
+
+Esse fluxo está diretamente vinculado à formalidade institucional do evento.
+
+### Visitantes
+
+As inscrições do público visitante (interno e externo) foram realizadas por meio da plataforma:
+
+https://www.even3.com.br/xiii-feira-de-inovacao-tecnologica-do-ifpr-campus-paranavai-iftech-633565/
+
+A plataforma Even3 foi utilizada para:
+
+- controle de inscrições do público;
+- confirmação de presença via QR Code;
+- emissão automática de certificados aos visitantes.
+
+Esse fluxo atendeu à organização logística e ao controle de participação do público.
+
+!!! note "Articulação dos Sistemas"
+
+A utilização simultânea do SUAP (expositores) e do Even3 (visitantes) exigiu atenção da organização quanto a:
+
+- comunicação clara sobre onde cada público deve se inscrever;
+- controle paralelo de listas;
+- consolidação posterior de dados para relatório institucional.
+
+A separação entre os sistemas permitiu organização adequada, mas exigiu alinhamento operacional atento.
