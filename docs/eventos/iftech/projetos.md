@@ -106,7 +106,7 @@ A plataforma Even3 foi utilizada para:
 
 Esse fluxo atendeu à organização logística e ao controle de participação do público.
 
-!!! note "Articulação dos Sistemas"
+!!! note "CONSIDERAÇÕES"
 
 A utilização simultânea do SUAP (expositores) e do Even3 (visitantes) exigiu atenção da organização quanto a:
 
@@ -114,4 +114,4 @@ A utilização simultânea do SUAP (expositores) e do Even3 (visitantes) exigiu 
 - controle paralelo de listas;
 - consolidação posterior de dados para relatório institucional.
 
-A separação entre os sistemas permitiu organização adequada, mas exigiu alinhamento operacional atento.
+A separação entre os sistemas permitiu organização adequada, mas exigiu alinhamento operacional atento. Para futuras edições, recomenda-se avaliar a viabilidade de centralizar todo o fluxo de inscrição e certificação no SUAP. No caso do público visitante externo, a definição da ferramenta deve ser analisada com cautela, considerando aspectos de acesso, controle de presença e emissão de certificados.
