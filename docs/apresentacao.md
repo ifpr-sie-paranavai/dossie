@@ -24,6 +24,11 @@ Entre suas funções, o NIT favorece a criação de um ambiente propício à ino
 
 No Campus Paranavaí, a chefia da SIE exerce cumulativamente a presidência do NIT. Servidores que exerceram a função:
 
+- Carlos Eduardo Barão (2013-2014)
+- Keren Hapuque Pinheiro (2014-2015) 
+- Edno Gentilho Junior (2015-2016) 
+- Tatiana Colombo Pimentel (2016-2018) 
+- Aurasil Ferreira Garcia Junior (2018-2018) 
 - Camila Clozato Lara (2018-2020)
 - Alexandre da Silva Avíncola (2020-2021)
 - Edno Gentilho Junior (2021-2022) (in memoriam)
