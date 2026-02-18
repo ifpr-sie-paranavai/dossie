@@ -9,15 +9,15 @@ Sua organização envolve múltiplas frentes de atuação que se articulam ao lo
 A realização do evento pode ser compreendida como um processo contínuo, que envolve:
 
 ### 1. Planejamento e Consolidação dos Projetos
-Organização das inscrições, sistematização das informações e estruturação das bases de dados necessárias à realização do evento.  
+Sistematização das informações e estruturação das bases de dados necessárias à realização do evento.  
 → Ver: [Projetos](projetos.md)
 
 Ressalta-se que os aspectos formais e administrativos da IFTECH — tais como editais, homologações e demais documentos oficiais — encontram-se disponíveis na seção própria de documentos institucionais.  
 
 → Acessar: [Documentos Oficiais da IFTECH](../../docs2025.md)
 
-### 2. Estruturação da Identidade e Comunicação
-Definição e padronização da identidade visual e institucional do evento.  
+### 2. Identidade Visual
+Definição da identidade visual e institucional do evento.  
 → Ver: [Identidade](identidade.md)
 
 ### 3. Organização do Espaço e Distribuição
