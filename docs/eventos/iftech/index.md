@@ -1,26 +1,41 @@
 # IFTECH – Estrutura Geral
 
-A IFTECH (Feira de Inovação Tecnológica) é uma ação institucional do IFPR voltada à apresentação de projetos desenvolvidos pela comunidade acadêmica, integrando ensino, pesquisa, extensão e inovação.
+A IFTECH (Feira de Inovação Tecnológica) é evento anual do IFPR Campus Paranavaí, voltado à apresentação de projetos desenvolvidos pela comunidade acadêmica, integrando ensino, pesquisa, extensão e inovação.
 
-Este compilado tem por finalidade sistematizar os principais aspectos organizacionais, administrativos e operacionais do evento, reunindo orientações que contribuam para sua continuidade e  aperfeiçoamento institucional.
+Sua organização envolve múltiplas frentes de atuação que se articulam ao longo do ano letivo, compondo um ciclo estruturado de planejamento, execução e registro institucional.
 
-Mais do que registrar uma edição específica, esta estrutura busca:
+## Ciclo Organizacional da IFTECH
 
-- organizar as dimensões que compõem o evento;
-- documentar processos recorrentes;
-- registrar boas práticas consolidadas;
-- identificar obstáculos operacionais e estratégias de superação;
-- garantir memória institucional e transição administrativa.
+A realização do evento pode ser compreendida como um processo contínuo, que envolve:
 
-A IFTECH envolve múltiplas frentes de atuação que demandam planejamento prévio e coordenação sistemática. As seções a seguir detalham cada uma dessas dimensões:
+### 1. Planejamento e Consolidação dos Projetos
+Organização das inscrições, sistematização das informações e estruturação das bases de dados necessárias à realização do evento.  
+→ Ver: [Projetos](projetos.md)
 
-- [Identidade](identidade.md)
-- [Projetos](projetos.md)
-- [Layout](layout.md)
-- [Credenciamento](credenciamento.md)
-- [Avaliação](avaliacao.md)
-- [Relatório](relatorio.md)
+Ressalta-se que os aspectos formais e administrativos da IFTECH — tais como editais, homologações e demais documentos oficiais — encontram-se disponíveis na seção própria de documentos institucionais.  
 
-  
-A organização estruturada dessas informações fortalece a governança do evento e contribui para sua realização de forma transparente, eficiente e alinhada às diretrizes institucionais do IFPR.
+→ Acessar: [Documentos Oficiais da IFTECH](../../docs2025.md)
 
+### 2. Estruturação da Identidade e Comunicação
+Definição e padronização da identidade visual e institucional do evento.  
+→ Ver: [Identidade](identidade.md)
+
+### 3. Organização do Espaço e Distribuição
+Planejamento do layout físico e organização equitativa dos projetos.  
+→ Ver: [Layout](layout.md)
+
+### 4. Credenciamento e Controle de Participação
+Registro estruturado de participantes, avaliadores e equipe de apoio.  
+→ Ver: [Credenciamento](credenciamento.md)
+
+### 5. Processo Avaliativo
+Definição de critérios, distribuição de projetos aos avaliadores e consolidação dos resultados.  
+→ Ver: [Avaliação](avaliacao.md)
+
+### 6. Registro e Consolidação Institucional
+Elaboração de relatório, emissão de certificados e preservação da memória administrativa da edição.  
+→ Ver: [Relatório](relatorio.md)
+
+---
+
+A articulação dessas dimensões assegura continuidade institucional, transparência administrativa e aperfeiçoamento progressivo da IFTECH a cada edição anual.
