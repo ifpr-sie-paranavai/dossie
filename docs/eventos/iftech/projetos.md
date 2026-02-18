@@ -40,6 +40,14 @@ A consolidação anual dos dados permite a geração de indicadores relevantes, 
 
 Esses indicadores contribuem para análise estratégica da IFTECH enquanto evento anual do campus.
 
+## Modelos e Arquivos Editáveis
+
+Os modelos, planilhas e arquivos editáveis utilizados na organização dos projetos encontram-se disponíveis no Google Drive institucional da SIE, na pasta: IFTECH2025/Projetos
+
+Esses materiais podem servir como referência para edições futuras, permitindo reaproveitamento de estruturas consolidadas e adaptação conforme as necessidades de cada ano.
+
+Recomenda-se manter essa pasta atualizada a cada edição, preservando histórico organizado por ano.
+
 ## Interdependências e Impactos Operacionais
 
 A organização dos projetos deve considerar não apenas aspectos quantitativos, mas também suas implicações práticas na dinâmica do evento.
