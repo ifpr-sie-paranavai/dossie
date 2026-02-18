@@ -110,7 +110,7 @@ Esse fluxo atendeu à organização logística e ao controle de participação d
 
 A utilização simultânea do SUAP (expositores) e do Even3 (visitantes) exigiu atenção da organização quanto a:
 
-- comunicação clara sobre onde cada público deve se inscrever;
+- comunicação clara sobre a inscrição de cada público (qr code);
 - controle paralelo de listas;
 - consolidação posterior de dados para relatório institucional.
 
