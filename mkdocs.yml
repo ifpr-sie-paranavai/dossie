@@ -18,12 +18,12 @@ nav:
       - Visão Geral: eventos.md
       - IFTECH:
           - Apresentação Geral: eventos/iftech/index.md
-          - Identidade do Evento: eventos/iftech/identidade.md
-          - Avaliação: eventos/iftech/avaliacao.md
-          - Layout e Distribuição: eventos/iftech/layout.md
-          - Projetos: eventos/iftech/projetos.md
-          - Credenciamento: eventos/iftech/credenciamento.md
-
+          - Identidade Visual: eventos/iftech/identidade.md
+          - Projetos e participantes: eventos/iftech/projetos.md
+          - Inscrição, Credenciamento e Controle de Participação: eventos/iftech/credenciamento.md
+          - Infraestrutura e Layout: eventos/iftech/layout.md
+          - Avaliação e avaliadores: eventos/iftech/avaliacao.md
+          - Relatório e consolidação: eventos/iftech/relatorio.md
   - Documentos:
       - Visão Geral: documentos.md
       - 2025: docs2025.md
