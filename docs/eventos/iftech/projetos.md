@@ -48,8 +48,7 @@ Esses materiais podem servir como referência para edições futuras, permitindo
 
 Recomenda-se manter essa pasta atualizada a cada edição, preservando histórico organizado por ano.
 
-## Interdependências e Impactos Operacionais
-
+!!! important "Importante"
 A organização dos projetos deve considerar não apenas aspectos quantitativos, mas também suas implicações práticas na dinâmica do evento.
 
 ### Participação em Múltiplos Projetos
