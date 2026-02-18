@@ -1,10 +1,8 @@
 # Contatos Institucionais
 
-Seção de Inovação e Empreendedorismo (SIE)
-Email: inovacao.paranavai@ifpr.edu.br
+Seção de Inovação e Empreendedorismo (SIE): inovacao.paranavai@ifpr.edu.br
 
-Núcleo de Inovação Tecnológica (NIT)  
-Email: nit.paranavai@ifpr.edu.br
+Núcleo de Inovação Tecnológica (NIT): nit.paranavai@ifpr.edu.br
 
 ## Parceiros Estratégicos
 
