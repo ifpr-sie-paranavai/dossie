@@ -14,18 +14,6 @@ A organização da avaliação envolve:
 
 Recomenda-se manter modelos padronizados de convite, confirmação e agradecimento, bem como registro dos contatos utilizados.
 
-## Documentação
-
-A dimensão avaliativa deve estar acompanhada de documentação organizada, incluindo:
-
-- Instrumento de avaliação (formulário, planilha ou sistema digital);
-- Critérios previamente definidos;
-- Registro das notas atribuídas;
-- Consolidação dos resultados;
-- Lista de avaliadores participantes.
-
-A manutenção desses registros contribui para a transparência do processo e para a memória institucional do evento.
-
 ## Formato da Avaliação
 
 O formato adotado deve considerar:
@@ -37,3 +25,15 @@ O formato adotado deve considerar:
 - Procedimento claro para desempates, quando necessário.
 
 A definição antecipada da metodologia de avaliação reduz inconsistências e fortalece a credibilidade do evento.
+
+## Histórico de orientações
+
+A dimensão avaliativa deve estar acompanhada de comunicação clara e organizada, incluindo:
+
+- Instrumento de avaliação (formulário, planilha ou sistema digital);
+- Critérios previamente definidos;
+- Registro das notas atribuídas;
+- Consolidação dos resultados;
+- Lista de avaliadores participantes.
+
+A manutenção desses registros contribui para a transparência do processo e para a memória institucional do evento.
