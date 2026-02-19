@@ -39,34 +39,9 @@ Recomenda-se manter registro documental do layout para fins distintos, incluindo
 
 Esse registro contribui para aperfeiçoamento contínuo, transparência administrativa e memória institucional do evento.
 
-## Encaminhamentos Administrativos
-[1º Solicitação de preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 1 - Solicitacao de preenchimento do formulário de necessidades estruturais prazo 22-08.pdf)
-
-[2º Lembrete da solicitação de preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 2 - Lembrete de preenchimento das necessidades estruturais.pdf)
-
-[3º Novo prazo para preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 3 - Novo prazo para preenchimento do formulário de necessidades estruturais 29-08.pdf)
-
-[4º Divulgação do layout e das demandas de apoio](../../arquivos/Infraestrutura e layout 4 - Divulgacao do layout e das demandas de apoio.pdf)
-
-[5º Última solicitação de verificação da distribuição e da infraestrutura](../../arquivos/Infraestrutura e layout 5 - Ultima solicitacao de verificacao da distribuicao e da infraestrutura.pdf)
-
-[Chamado SUAP - Solicitação de apoio](../../arquivos/Chamado 16054 - SUAP - Solicitacao de apoio.pdf)
-
-[Chamado SUAP - Solicitação de limpeza](../../arquivos/Chamado 16787 - SUAP_ Limpeza dos espacos para o evento.pdf)
-
-[Chamado SUAP - Solicitação de computadores](../../arquivos/Chamado 16763 - SUAP - Computadores para avaliadores.pdf)
-
-[Chamado SUAP - Ex. de solicitação de materiais adicionais](../../arquivos/Chamado 16502 - SUAP - TOTEM.pdf)
-
-## Segurança
+!!! danger "ALERTA DE SEGURANÇA"
 
 A organização é responsável pela infraestrutura geral disponibilizada. Entretanto, cada coordenador proponente também é responsável pelo uso seguro dos equipamentos que leva para exposição.
-
-Instalações precárias ou improvisadas, sobrecarga de extensões ou manuseio inadequado de tomadas configuram risco real à integridade física dos participantes e à responsabilidade administrativa do evento.
-
-Recomenda-se formalizar orientações de segurança aos expositores, contribuindo para a prevenção de riscos e fortalecendo a governança institucional.
-
-!!! danger "ALERTA"
 
 A utilização de instalações provisórias, especialmente em espaços como o ginásio de esportes, exige atenção redobrada quanto à segurança elétrica.
 
@@ -85,3 +60,25 @@ Recomenda-se, para futuras edições:
 - proibir o uso de adaptadores tipo “benjamim” e conferir com atenção as extensões/filtros de linha dos projetos;
 - destacar equipe de apoio técnico para acompanhar a montagem;
 - incluir orientações formais de segurança no e-mail oficial aos expositores.
+
+## Encaminhamentos Administrativos
+
+[1º Solicitação de preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 1 - Solicitacao de preenchimento do formulário de necessidades estruturais prazo 22-08.pdf)
+
+[2º Lembrete da solicitação de preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 2 - Lembrete de preenchimento das necessidades estruturais.pdf)
+
+[3º Novo prazo para preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 3 - Novo prazo para preenchimento do formulário de necessidades estruturais 29-08.pdf)
+
+[4º Divulgação do layout e das demandas de apoio](../../arquivos/Infraestrutura e layout 4 - Divulgacao do layout e das demandas de apoio.pdf)
+
+[5º Última solicitação de verificação da distribuição e da infraestrutura](../../arquivos/Infraestrutura e layout 5 - Ultima solicitacao de verificacao da distribuicao e da infraestrutura.pdf)
+
+[Chamado SUAP - Solicitação de apoio](../../arquivos/Chamado 16054 - SUAP - Solicitacao de apoio.pdf)
+
+[Chamado SUAP - Solicitação de limpeza](../../arquivos/Chamado 16787 - SUAP_ Limpeza dos espacos para o evento.pdf)
+
+[Chamado SUAP - Solicitação de computadores](../../arquivos/Chamado 16763 - SUAP - Computadores para avaliadores.pdf)
+
+[Chamado SUAP - Ex. de solicitação de materiais adicionais](../../arquivos/Chamado 16502 - SUAP - TOTEM.pdf)
+
+[Consulta sobre a capacidade da rede sem fio no ginásio](../../arquivos/TI - Consulta sobre a internet no Ginasio.pdf)
