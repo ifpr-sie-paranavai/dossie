@@ -130,7 +130,7 @@ A separação entre os sistemas permitiu organização adequada, mas exigiu alin
 
 [Chamada Complementar - Procedimentos PROEPPI](../../arquivos/Recurso - Procedimentos PROEPPI.pdf)
 
-[Solicitação de preenchimento da categoria dos projetos](../../arquivos/Solicitação de preenchimento da categoria dos projetos.pdf)
+[Solicitação de preenchimento da categoria dos projetos](../../arquivos/Categorização dos Protótipos para Avaliação da IFTech 2025.pdf)
 
 [Aviso sobre lanche aos estudantes expositores](../../arquivos/AVISO 1 - Lanche para estudantes expositores.pdf)
 
