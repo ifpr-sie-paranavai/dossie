@@ -39,6 +39,10 @@ Recomenda-se manter registro documental do layout para fins distintos, incluindo
 
 Esse registro contribui para aperfeiçoamento contínuo, transparência administrativa e memória institucional do evento.
 
+## Encaminhamentos Administrativos
+
+
+
 ## Segurança
 
 A organização é responsável pela infraestrutura geral disponibilizada. Entretanto, cada coordenador proponente também é responsável pelo uso seguro dos equipamentos que leva para exposição.
