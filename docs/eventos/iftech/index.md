@@ -11,7 +11,7 @@ Sistematização das informações e estruturação das bases de dados necessár
 
 Ressalta-se que os aspectos formais e administrativos da IFTECH — tais como editais, homologações e demais documentos oficiais — encontram-se disponíveis na seção própria de documentos institucionais. Acessar: [Documentos Oficiais da IFTECH](../../docs2025.md)
 
-### 2. Identidade Visual](identidade.md)
+### 2. [Identidade Visual](identidade.md)
 Definição da identidade visual e institucional do evento.
 
 ### 3. [Infraestrutura e Layout](layout.md)
