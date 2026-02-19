@@ -44,11 +44,19 @@ Esse registro contribui para aperfeiçoamento contínuo, transparência administ
 
 [2º Lembrete da solicitação de preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 2 - Lembrete de preenchimento das necessidades estruturais.pdf)
 
-[3º Novo prazo para preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 3 - Novo prazo para preenchimento do formulário de necessidades estruturais 29-08)
+[3º Novo prazo para preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 3 - Novo prazo para preenchimento do formulário de necessidades estruturais 29-08.pdf)
 
 [4º Divulgação do layout e das demandas de apoio](../../arquivos/Infraestrutura e layout 4 - Divulgacao do layout e das demandas de apoio.pdf)
 
 [5º Última solicitação de verificação da distribuição e da infraestrutura](../../arquivos/Infraestrutura e layout 5 - Ultima solicitacao de verificacao da distribuicao e da infraestrutura.pdf)
+
+[Chamado SUAP - Solicitação de apoio](../../arquivos/Chamado 16054 - SUAP - Solicitacao de apoio.pdf)
+
+[Chamado SUAP - Solicitação de limpeza](../../arquivos/Chamado 16787 - SUAP_ Limpeza dos espacos para o evento.pdf)
+
+[Chamado SUAP - Solicitação de computadores](../../arquivos/Chamado 16763 - SUAP - Computadores para avaliadores.pdf)
+
+[Chamado SUAP - Ex. de solicitação de materiais adicionais](../../arquivos/Chamado 16502 - SUAP - TOTEM.pdf)
 
 ## Segurança
 
