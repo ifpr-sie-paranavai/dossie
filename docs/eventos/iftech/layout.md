@@ -41,9 +41,14 @@ Esse registro contribui para aperfeiçoamento contínuo, transparência administ
 
 ## Encaminhamentos Administrativos
 [1º Solicitação de preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 1 - Solicitacao de preenchimento do formulário de necessidades estruturais prazo 22-08.pdf)
-[2º Lembrete da solicitação de preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 2 - Lembrete de preenchimento das necessidades estruturais.pdf)
-[3º Novo prazo para preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 3 - Novo prazo para preenchimento do formulário de necessidades estruturais 29-08
 
+[2º Lembrete da solicitação de preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 2 - Lembrete de preenchimento das necessidades estruturais.pdf)
+
+[3º Novo prazo para preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 3 - Novo prazo para preenchimento do formulário de necessidades estruturais 29-08)
+
+[4º Divulgação do layout e das demandas de apoio](../../arquivos/Infraestrutura e layout 4 - Divulgacao do layout e das demandas de apoio.pdf)
+
+[5º Última solicitação de verificação da distribuição e da infraestrutura](../../arquivos/Infraestrutura e layout 5 - Ultima solicitacao de verificacao da distribuicao e da infraestrutura.pdf)
 
 ## Segurança
 
