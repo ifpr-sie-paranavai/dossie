@@ -40,7 +40,9 @@ Recomenda-se manter registro documental do layout para fins distintos, incluindo
 Esse registro contribui para aperfeiçoamento contínuo, transparência administrativa e memória institucional do evento.
 
 ## Encaminhamentos Administrativos
-[1a Solicitação de preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 1 - Solicitacao de preenchimento do formulário de necessidades estruturais prazo 22-08.pdf)
+[1º Solicitação de preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 1 - Solicitacao de preenchimento do formulário de necessidades estruturais prazo 22-08.pdf)
+[2º Lembrete da solicitação de preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 2 - Lembrete de preenchimento das necessidades estruturais.pdf)
+[3º Novo prazo para preenchimento da infraestrutura dos projetos](../../arquivos/Infraestrutura e layout 3 - Novo prazo para preenchimento do formulário de necessidades estruturais 29-08
 
 
 ## Segurança
