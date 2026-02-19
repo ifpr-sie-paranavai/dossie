@@ -20,7 +20,7 @@ Planejamento do layout físico e organização dos projetos.
 ### 4. [Avaliação e avaliadores](avaliacao.md)
 Definição de critérios, distribuição de projetos aos avaliadores e consolidação dos resultados.
 
-### 5. [Registro e Consolidação Institucional] (relatorio.md)
+### 5. [Registro e Consolidação Institucional](relatorio.md)
 Elaboração de relatório, emissão de certificados e preservação da memória administrativa da edição.
 
 ---
