@@ -121,16 +121,27 @@ A separação entre os sistemas permitiu organização adequada, mas exigiu alin
 ## Encaminhamentos Administrativos
 
 [Edital - Lançamento e convite à comunidade](../../arquivos/Edital - Lancamento e convite a comunidade.pdf)
+
 [Edital - Resultado final](../../arquivos/Edital - Resultado final.pdf)
+
 [Edital - Solicitação de verificação de adimplência dos proponentes](../../arquivos/Edital - Solicitacao de verificacao de adimplencia dos proponentes.pdf)
+
 [Chamada Complementar - Procedimentos CIEC](../../arquivos/Recurso - Procedimentos CIEC.pdf)
+
 [Chamada Complementar - Procedimentos PROEPPI](../../arquivos/Recurso - Procedimentos PROEPPI.pdf)
+
 [Solicitação de preenchimento da categoria dos projetos](../../arquivos/Solicitação de preenchimento da categoria dos projetos.pdf)
+
 [Aviso sobre lanche aos estudantes expositores](../../arquivos/AVISO 1 - Lanche para estudantes expositores.pdf)
+
 [Aviso sobre lanche à DIEPEX/Seção Pedagógica](../../arquivos/AVISO 2 - DIEPEX e SECAO - Lanche para estudantes expositores.pdf)
+
 [Convite à comunidade para participação na IFTECH 2025 - para repasse](../../arquivos/Convite à comunidade para participação na IFTECH 2025 - para repasse.pdf)
+
 [Convite à Comissão Discente](../../arquivos/Convite - Comissão Discente da IFTech 2025.pdf)
+
 [Orientações finais para os(as) estudantes expositores(as) da IFTECH 2025](../../arquivos/Orientações finais para os(as) estudantes expositores(as) da IFTECH 2025.pdf)
+
 [Proposta 1 - Alternativa de solução para apresentação dos softwares na IFTECH 2025](../../arquivos/Proposta 1 - Alternativa de solução para apresentação dos softwares na IFTECH 2025.pdf)
 
 
