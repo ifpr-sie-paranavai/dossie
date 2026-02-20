@@ -142,7 +142,7 @@ A separação entre os sistemas permitiu organização adequada, mas exigiu alin
 
 [Orientações finais para os(as) estudantes expositores(as) da IFTECH 2025](../../arquivos/Orientações finais para os(as) estudantes expositores(as) da IFTECH 2025.pdf)
 
-[Proposta 1 - Alternativa de solução para apresentação dos softwares na IFTECH 2025](../../arquivos/Proposta 1 - Alternativa de solução para apresentação dos softwares na IFTECH 2025.pdf)
+[Alternativa de solução para apresentação dos softwares na IFTECH 2025](../../arquivos/Proposta 1 - Alternativa de solução para apresentação dos softwares na IFTECH 2025.pdf)
 
 
 
