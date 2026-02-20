@@ -26,14 +26,16 @@ O formato adotado deve considerar:
 
 A definição antecipada da metodologia de avaliação reduz inconsistências e fortalece a credibilidade do evento.
 
-## Histórico de orientações
+## Encaminhamentos Administrativos
 
 A dimensão avaliativa deve estar acompanhada de comunicação clara e organizada, incluindo:
 
-- Instrumento de avaliação (formulário, planilha ou sistema digital);
-- Critérios previamente definidos;
-- Registro das notas atribuídas;
-- Consolidação dos resultados;
-- Lista de avaliadores participantes.
+[Convite aos avaliadores](../../arquivos/Avaliadores - Convite para avaliação de protótipos.pdf)
 
-A manutenção desses registros contribui para a transparência do processo e para a memória institucional do evento.
+[Orientações sobre o processo avaliativo](../../arquivos/Avaliadores - Últimas orientações e codigo por avaliador.pdf)
+
+[Agradecimento pela participação como avaliador](../../arquivos/AVALIADORES - Agradecimento pela participação na IFTECH 2025.pdf)
+
+[Envio dos certificados aos avaliadores](../../arquivos/Avaliadores - Certificados.pdf)
+
+
