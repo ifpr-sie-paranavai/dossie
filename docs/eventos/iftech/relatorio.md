@@ -53,6 +53,10 @@ Breve descrição do formato adotado, critérios utilizados e metodologia aplica
 - Melhorias estruturais
 - Sugestões estratégicas
 
----
+## Encaminhamentos Administrativos
+
+[Orientações sobre relatóro final e prestação de contas](../../arquivos/Relatorio - Orientações sobre Relatório Final e Prestação de Contas da IFTECH 2025.pdf)
+
+[Orientações sobre devolução de recursos](../../arquivos/Relatorio - Devolução de valores não utilizados – Projetos IFTECH 2025 (Modalidade CIEC).pdf)
 
 Este relatório tem caráter institucional e visa subsidiar futuras edições da IFTECH, garantindo continuidade administrativa, transparência e aperfeiçoamento constante do evento.
