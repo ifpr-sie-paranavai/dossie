@@ -53,4 +53,6 @@ A realização da IFTECH 2025 evidencia a necessidade de fortalecimento instituc
 
 [Orientações sobre devolução de recursos](../../arquivos/Relatorio - Devolução de valores não utilizados – Projetos IFTECH 2025 (Modalidade CIEC).pdf)
 
+[Relatório Final SUAP](../../arquivos/[IFTECH 2025] Relatório final.pdf)
+
 Este relatório tem caráter institucional e visa subsidiar futuras edições da IFTECH, garantindo continuidade administrativa, transparência e aperfeiçoamento constante do evento.
