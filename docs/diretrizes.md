@@ -124,7 +124,7 @@ A atuação deve sempre observar as normativas institucionais e manter alinhamen
 
 ## Cronograma da gestão 2024-2026
 
-![Cronograma anual aproximado](imagens/cronograma.jpg)
+![Cronograma anual aproximado](imagens/cronograma.JPG)
 
 ---
 
