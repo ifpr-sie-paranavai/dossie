@@ -33,7 +33,9 @@ A definição antecipada da metodologia de avaliação reduz inconsistências e 
 
 A dimensão avaliativa deve estar acompanhada de comunicação clara e organizada, incluindo:
 
-[Composição da Comissão de Avaliação das propostas e orientações](../../arquivos/Orientações para Avaliação de Projetos – IFTech 2025)
+[Composição da Comissão de Avaliação das propostas submetidas](../../arquivos/Convite - Composicao da Comissao de Avalicao dos projetos submetidos.pdf)
+
+[Orientações para a Comissão de Avaliação das propostas](../../arquivos/Orientações para Avaliação de Projetos – IFTech 2025.pdf)
 
 [Convite aos avaliadores dos protótipos](../../arquivos/Avaliadores - Convite para avaliação de protótipos.pdf)
 
