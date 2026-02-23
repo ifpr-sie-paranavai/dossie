@@ -16,14 +16,14 @@ A edição de 2025 consolidou-se pela ampla participação, alcançando aproxima
 - Servidores expositores: 46
 - Avaliadores das propostas: 4
 - Avaliadores dos protótipos: 10 
-- Escolas Visitantes: 8 instituições (aprox. 400 alunos da rede pública e privada).
-- Público Estimado: 800 pessoas (incluindo 190 inscrições formais de visitantes e servidores no credenciamento).
+- Escolas Visitantes: 8 instituições (aprox. 400 alunos da rede pública e privada)
+- Público Estimado: 800 pessoas (incluindo 190 inscrições formais de visitantes e servidores no credenciamento)
   
 ## Estrutura Organizacional
 
 - Comissão organizadora: membros do NIT
-- Apoio institucional: Direção-Geral do Campus Paranavaí, DIEPEX, COPEX, Servidores e colaboradores da DPA, equipe de terceirizados e AGIF/IFPR.
-- Parcerias: Associação Comercial e Industrial de Paranavaí (ACIAP), Prefeitura Municipal de Paranavaí, Câmara de Vereadores e Cervejaria Paraíso.
+- Apoio institucional: Direção-Geral do Campus Paranavaí, DIEPEX, COPEX, Servidores e colaboradores da DPA, equipe de terceirizados e AGIF/IFPR
+- Parcerias: Associação Comercial e Industrial de Paranavaí (ACIAP), Prefeitura Municipal de Paranavaí, Câmara de Vereadores e Cervejaria Paraíso
 
 ## Desafios Identificados
 
