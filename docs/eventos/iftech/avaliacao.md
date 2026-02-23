@@ -2,17 +2,20 @@
 
 A avaliação dos projetos constitui dimensão estruturante da IFTECH, garantindo critérios técnicos, transparência e legitimidade institucional ao processo de reconhecimento das propostas apresentadas.
 
-## Comunicação com Avaliadores
+## Etapas de Avaliação
 
-A organização da avaliação envolve:
+Avaliação de Propostas (Etapa de Seleção): Realizada por avaliadores internos do IFPR, esta fase consiste na análise técnica e de mérito das propostas submetidas. O objetivo é validar a viabilidade e a conformidade normativa dos projetos, servindo como critério fundamental para a classificação e o escalonamento das propostas que pleiteiam o auxílio financeiro (subsídio) previsto no edital.
 
-- Convite formal aos avaliadores;
-- Confirmação de participação;
-- Envio prévio de orientações;
-- Informações sobre local, horário e dinâmica do evento;
-- Comunicação de agradecimento institucional após a participação.
+Avaliação de Protótipos (Etapa de Exposição): Realizada, preferencialmente, por avaliadores externos à instituição. O objetivo é avaliar os resultados práticos e os protótipos durante o evento, trazendo uma perspectiva de mercado, inovação e sociedade que fortaleça o intercâmbio de conhecimento.
 
-Recomenda-se manter modelos padronizados de convite, confirmação e agradecimento, bem como registro dos contatos utilizados.
+Recomenda-se considerar avaliadores externos ao IFPR, tais como:
+
+- profissionais do setor produtivo;
+- representantes de empresas e startups;
+- docentes de outras instituições;
+- egressos dos cursos;
+- parceiros do Sebrae, Conselho de Inovação, Sala do Empreendedor entre outros;
+- pesquisadores convidados.
 
 ## Formato da Avaliação
 
@@ -25,6 +28,18 @@ O formato adotado deve considerar:
 - Procedimento claro para desempates, quando necessário.
 
 A definição antecipada da metodologia de avaliação reduz inconsistências e fortalece a credibilidade do evento.
+
+## Comunicação com Avaliadores
+
+A organização da avaliação envolve:
+
+- Convite formal aos avaliadores;
+- Confirmação de participação;
+- Envio prévio de orientações;
+- Informações sobre local, horário e dinâmica do evento;
+- Comunicação de agradecimento institucional após a participação.
+
+Recomenda-se manter modelos padronizados de convite, confirmação e agradecimento, bem como registro dos contatos utilizados.
 
 ## Encaminhamentos Administrativos
 
