@@ -36,7 +36,7 @@ Recomenda-se considerar o convite a avaliadores externos ao IFPR, tais como:
 - parceiros do Sebrae, Conselho de Inovação, Sala do Empreendedor entre outros;
 - pesquisadores convidados.
 
-Com o objetivo de subsidiar a avaliação, foi desenvolvido um compilado dos projetos, permitindo aos avaliadores o acesso prévio a informações mais detalhadas sobre as propostas antes da visita in loco. O site está disponível em: https://sites.google.com/ifpr.edu.br/projetos-iftech-2025?usp=sharing
+Com o objetivo de subsidiar a avaliação, foi desenvolvido um compilado dos projetos, permitindo aos avaliadores o acesso prévio a informações mais detalhadas sobre as propostas antes da visita in loco. [O site está disponível em]: https://sites.google.com/ifpr.edu.br/projetos-iftech-2025?usp=sharing
 
 ## Formato da Avaliação
 
