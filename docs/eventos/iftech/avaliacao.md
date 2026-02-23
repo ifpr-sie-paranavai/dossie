@@ -29,23 +29,13 @@ O formato adotado deve considerar:
 
 A definição antecipada da metodologia de avaliação reduz inconsistências e fortalece a credibilidade do evento.
 
-## Comunicação com Avaliadores
-
-A organização da avaliação envolve:
-
-- Convite formal aos avaliadores;
-- Confirmação de participação;
-- Envio prévio de orientações;
-- Informações sobre local, horário e dinâmica do evento;
-- Comunicação de agradecimento institucional após a participação.
-
-Recomenda-se manter modelos padronizados de convite, confirmação e agradecimento, bem como registro dos contatos utilizados.
-
 ## Encaminhamentos Administrativos
 
 A dimensão avaliativa deve estar acompanhada de comunicação clara e organizada, incluindo:
 
-[Convite aos avaliadores](../../arquivos/Avaliadores - Convite para avaliação de protótipos.pdf)
+[Composição da Comissão de Avaliação das propostas e orientações](../../arquivos/Orientações para Avaliação de Projetos – IFTech 2025)
+
+[Convite aos avaliadores dos protótipos](../../arquivos/Avaliadores - Convite para avaliação de protótipos.pdf)
 
 [Orientações sobre o processo avaliativo](../../arquivos/Avaliadores - Últimas orientações e codigo por avaliador.pdf)
 
