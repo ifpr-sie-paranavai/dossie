@@ -6,7 +6,7 @@ A identidade visual da IFTECH cumpre papel estratégico na consolidação do eve
 
 Na edição de 2025, foram desenvolvidas diferentes peças institucionais, organizadas conforme sua finalidade:
 
-### 1. Marca e Elementos Oficiais
+### Marca e Elementos Oficiais
 - Logo oficial IFTECH (modelo reitoria)
 - Cabeçalho IFTECH 2025 para documentos
 
@@ -14,7 +14,7 @@ Utilização: documentos oficiais, certificados, comunicações institucionais e
 
 ---
 
-### 2. Materiais de Divulgação Digital
+### Materiais de Divulgação Digital
 - Artes para WhatsApp (formato A4 e lembretes específicos)
 - Convite para comunidade interna por projeto (passarelas)
 - Arte de agradecimento a visitantes convidados
@@ -23,7 +23,7 @@ Utilização: comunicação com avaliadores, estudantes, servidores e público e
 
 ---
 
-### 3. Sinalização e Elementos Físicos
+### Sinalização e Elementos Físicos
 - Windbanner IFTECH
 - Banner 80x120 cm com QR Code
 - QR Code geral de inscrição
@@ -32,7 +32,7 @@ Utilização: identificação do espaço do evento e orientação do público.
 
 ---
 
-### 4. Identificação e Organização Interna
+### Identificação e Organização Interna
 - Crachá com nome do evento
 - Identificação dos projetos com código e título para avaliadores
 - Etiqueta dos kits dos participantes
@@ -42,7 +42,7 @@ Utilização: organização interna, controle de participantes e padronização 
 
 ---
 
-### 5. Materiais de Apoio a Avaliadores
+### Materiais de Apoio a Avaliadores
 - Voucher de avaliadores
 - Arte de lembrete para avaliadores
 
@@ -50,7 +50,7 @@ Utilização: valorização institucional e suporte à participação externa.
 
 ---
 
-### 6. Comunicação Operacional
+### Comunicação Operacional
 - Orientação aos participantes (kits)
 - Arte da entrega dos kits
 
