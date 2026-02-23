@@ -122,11 +122,10 @@ A atuação deve sempre observar as normativas institucionais e manter alinhamen
 
 ---
 
-## Cronograma da gestão 2024-2026
+## Demandas da gestão 2024-2026
 
-![Cronograma anual aproximado](imagens/cronograma.JPG)
-![IFTECH 2025](imagens/iftech_2025_capa.jpg)
-*Professor Rafael Petermann e o Vice-Prefeito Pedro Baraldi durante a IFTECH 2025.*
+![Cronograma](imagens/cronograma.JPG)
+*Cronograma anual aproximado das atividades da SIE*
 ---
 
 ## Considerações Finais
