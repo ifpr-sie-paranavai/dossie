@@ -4,7 +4,7 @@ Esta seção apresenta as diretrizes práticas que orientam a atuação da chefi
 
 ---
 
-## 1. Articulação em Rede
+## Articulação em Rede
 
 Compete à chefia da SIE participar ativamente do grupo de discussão dos Núcleos de Inovação Tecnológica (NITs) do IFPR, acompanhando orientações institucionais, debates estratégicos e compartilhamento de oportunidades. Essa participação ocorre via WhatsApp/Chat e é essencial para:
 
@@ -17,7 +17,7 @@ A presença ativa nesse espaço contribui diretamente para a inserção do campu
 
 ---
 
-## 2. Divulgação de Oportunidades
+## Divulgação de Oportunidades
 
 A SIE/NIT atua como ponte entre as instâncias institucionais (PROEPPI, AGIF, NITs, Direção-Geral, COPEX) e a comunidade acadêmica. Dessa forma, cabe à chefia:
 
@@ -28,7 +28,7 @@ A SIE/NIT atua como ponte entre as instâncias institucionais (PROEPPI, AGIF, NI
 
 ---
 
-## 3. Atuação Estratégica em Editais Estruturantes
+## Atuação Estratégica em Editais Estruturantes
 
 Há momentos institucionais em que a atuação da SIE/NIT é decisiva para viabilizar ações estruturantes no campus. Entre eles destacam-se:
 
@@ -47,7 +47,7 @@ A ausência de atuação estratégica pode resultar na perda de oportunidades es
 
 ---
 
-## 4. Indicação e Acompanhamento para Eventos Estratégicos
+## Indicação e Acompanhamento para Eventos Estratégicos
 
 Eventos como a SNEPT e o SEPIN possuem relevância institucional e visibilidade nacional. Por isso, compete à SIE:
 
@@ -61,7 +61,7 @@ A presença do campus nesses eventos fortalece sua visibilidade e consolida sua 
 
 ---
 
-## 5. Gestão de Editais e Acompanhamento de Execução
+## Gestão de Editais e Acompanhamento de Execução
 
 A gestão de editais envolve:
 
@@ -82,7 +82,7 @@ A sistematização dessas informações reduz retrabalho e fortalece a continuid
 
 ---
 
-## 6. Representação Institucional em Eventos de Inovação
+## Representação Institucional em Eventos de Inovação
 
 A chefia da SIE/NIT exerce papel de representação institucional do campus em eventos locais e regionais de inovação, empreendedorismo e tecnologia. Entre esses eventos incluem-se:
 
@@ -109,7 +109,7 @@ Essas ações ampliam a visibilidade institucional e fortalecem redes de parceri
 
 ---
 
-## 7. Articulação com o Ecossistema de Inovação
+## Articulação com o Ecossistema de Inovação
 
 A SIE/NIT também desempenha papel relevante na aproximação do campus com empresas, instituições públicas, organizações da sociedade civil e demais atores do ecossistema de inovação. Essa articulação pode envolver:
 
@@ -119,6 +119,11 @@ A SIE/NIT também desempenha papel relevante na aproximação do campus com empr
 - mediação inicial para iniciativas com possibilidade de proteção intelectual ou transferência tecnológica, em diálogo com o NIT.
 
 A atuação deve sempre observar as normativas institucionais e manter alinhamento com as instâncias superiores do IFPR.
+
+---
+
+## Cronograma aproximado da última gestão 2024-2026
+
 
 ---
 
