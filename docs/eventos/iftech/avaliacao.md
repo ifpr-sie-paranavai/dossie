@@ -2,7 +2,7 @@
 
 A avaliação dos projetos constitui dimensão estruturante da IFTECH, garantindo critérios técnicos, transparência e legitimidade institucional ao processo de reconhecimento das propostas apresentadas.
 
-## Etapas e critérios das Avaliação
+## Etapas e Critérios das Avaliações
 
 ### Avaliação de Propostas (Etapa de Seleção): 
 
